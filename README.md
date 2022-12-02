@@ -1,7 +1,15 @@
 # app-dev
 My first repository
+Favorite Series
 {
   "Under the Queen's Umbrella",
   "Mr. Queen",
-  "Pacific Rim"
+  "Lost in Space"
+}
+
+Favorite Movies
+{
+  "Fantastic Beasts",
+  "Enola Holmes",
+  "#Alive"
 }
